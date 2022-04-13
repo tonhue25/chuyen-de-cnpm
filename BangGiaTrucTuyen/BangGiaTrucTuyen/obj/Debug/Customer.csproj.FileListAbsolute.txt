@@ -1,0 +1,174 @@
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\ApplicationInsights.config
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\csc.exe
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\vbc.exe
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Customer.dll.config
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Customer.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Customer.pdb
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Antlr3.Runtime.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\EntityFramework.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\EntityFramework.SqlServer.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.Web.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Newtonsoft.Json.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Owin.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Helpers.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Mvc.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Optimization.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Razor.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\WebGrease.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.Web.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Helpers.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Mvc.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Optimization.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.Razor.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Antlr3.Runtime.pdb
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Newtonsoft.Json.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\EntityFramework.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\EntityFramework.SqlServer.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\obj\Debug\Customer.dll
+C:\Users\Mewan Indula\Desktop\Test\Customer\Customer\obj\Debug\Customer.pdb
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\ApplicationInsights.config
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\csc.exe
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\System.Collections.Immutable.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\System.Reflection.Metadata.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\vbc.exe
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\VBCSCompiler.exe
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\roslyn\VBCSCompiler.exe.config
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Customer.dll.config
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Customer.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Customer.pdb
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Antlr3.Runtime.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\EntityFramework.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\EntityFramework.SqlServer.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.Agent.Intercept.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.DependencyCollector.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.Web.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.WindowsServer.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.ApplicationInsights.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.Core.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Cookies.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Facebook.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Google.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.OAuth.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Twitter.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Web.Infrastructure.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Newtonsoft.Json.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Owin.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Helpers.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Mvc.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Optimization.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Razor.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.Deployment.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.Razor.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\WebGrease.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.DependencyCollector.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.Web.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AI.WindowsServer.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.ApplicationInsights.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Helpers.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Mvc.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Optimization.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.Razor.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.Deployment.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\System.Web.WebPages.Razor.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Antlr3.Runtime.pdb
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Newtonsoft.Json.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\EntityFramework.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\EntityFramework.SqlServer.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.Core.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Facebook.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Cookies.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.OAuth.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Google.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.Twitter.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\obj\Debug\Customer.csproj.AssemblyReference.cache
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\obj\Debug\Customer.csproj.CopyComplete
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\obj\Debug\Customer.dll
+E:\chuyen-de-cnpm\SignalR-SQL_Dependency\Customer\Customer\obj\Debug\Customer.pdb

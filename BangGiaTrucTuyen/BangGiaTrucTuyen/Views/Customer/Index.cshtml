@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Customer";
+}
+
+<div class="text-center">
+    <h2>Đề tài 3 -  Bảng giá trực tuyến</h2>
+</div>
+@Html.Hidden("Get", Url.Action("Get", "Customer"))
+
+<table class="table">
+    <thead>
+        <tr>
+            <th rowspan='2'>Mã CK</th>
+            <th colspan='6'>Bên bán</th>
+            <th colspan='2'>Khớp lệnh</th>
+            <th colspan='6'>Bên bán</th>
+            <th rowspan='2'>Tổng KL</th>
+        </tr>
+        <tr>
+            <th>Giá 3</th>
+            <th>KL 3</th>
+            <th>Giá 2</th>
+            <th>KL 2</th>
+            <th>Giá 1</th>
+            <th>KL 1</th>
+
+            <th>Giá KL</th>
+            <th>KL</th>
+
+            <th>Giá 1</th>
+            <th>KL 1</th>
+            <th>Giá 2</th>
+            <th>KL 2</th>
+            <th>Giá 3</th>
+            <th>KL 3</th>
+        </tr>
+</thead>
+
+    <tbody id="tblInfo">
+        
+    </tbody>
+</table>
