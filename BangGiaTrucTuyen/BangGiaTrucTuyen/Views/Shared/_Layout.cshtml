@@ -43,17 +43,15 @@
     <script type="text/javascript">
         $(function () {
 
-            // Proxy created on the fly
             var cus = $.connection.cusHub;
 
-            // Declare a function on the job hub so the server can invoke it
+            $.connection.hub.start().done(function () {
+                getData();
+            });
+
             cus.client.displayCustomer = function () {
                 getData();
             };
-
-            // Start the connection
-            $.connection.hub.start();
-            getData();
         });
 
         function getData()

@@ -19,12 +19,12 @@ namespace Customer
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
 
-            SqlDependency.Start(ConfigurationManager.ConnectionStrings["CustomerConnection"].ConnectionString);
+            SqlDependency.Start(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
         }
 
         protected void Application_End()
         {
-            SqlDependency.Stop(ConfigurationManager.ConnectionStrings["CustomerConnection"].ConnectionString);
+            SqlDependency.Stop(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString);
         }
     }
 }

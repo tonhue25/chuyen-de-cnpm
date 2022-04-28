@@ -1,4 +1,5 @@
 ﻿using Customer.Hubs;
+using Microsoft.Ajax.Utilities;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -7,6 +8,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Data.Entity;
 
 namespace Customer.Controllers
 {
@@ -20,24 +22,19 @@ namespace Customer.Controllers
 
         public JsonResult Get()
         {
-
-            using (var connection = new SqlConnection(ConfigurationManager.ConnectionStrings["CustomerConnection"].ConnectionString))
+            using (var connection = new SqlConnection(ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString))
             {
                 connection.Open();
-                // tạo một đổi tượng sqlcommand.
-                String sql = @"SELECT [id],[giaban1],[giaban2],[giaban3],[giakl],[giamua1],
-                    [giamua2],[giamua3],[klban1],[klban2],[klban3],[klkl],[klmua1],
-                    [klmua2],[klmua3],[tongkl] FROM [chuyendecnpm].[dbo].[banggiatructuyen]";
-                using (SqlCommand command = new SqlCommand(sql, connection))
+                String sql = "SELECT [id],[giaban1],[giaban2],[giaban3],[giakl],[giamua1],"+
+                    "[giamua2],[giamua3],[klban1],[klban2],[klban3],[klkl],[klmua1]," +
+                    "[klmua2],[klmua3],[tongkl] FROM [chuyendecnpm].[dbo].[banggiatructuyen]";
+                using (SqlCommand command = new SqlCommand(@sql, connection))
                 {
                     command.Notification = null;
-                    //tạo 1 depandency và liên kết nó với đối tượng sqlcommand.
                     SqlDependency dependency = new SqlDependency(command);
-                    // subscribe đến sự kiện sqldependency.
                     dependency.OnChange += new OnChangeEventHandler(dependency_OnChange);
                     if (connection.State == ConnectionState.Closed)
                         connection.Open();
-                    // thực thi lệnh trên đối tượng command.
                     SqlDataReader reader = command.ExecuteReader();
                     var listCus = reader.Cast<IDataRecord>()
                             .Select(x => new
