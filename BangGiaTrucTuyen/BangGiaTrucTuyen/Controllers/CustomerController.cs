@@ -14,7 +14,6 @@ namespace Customer.Controllers
 {
     public class CustomerController : Controller
     {
-        // GET: Customer
         public ActionResult Index()
         {
             return View();
